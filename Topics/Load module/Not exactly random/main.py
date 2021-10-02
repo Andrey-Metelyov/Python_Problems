@@ -1,5 +1,5 @@
 # place `import` statement at top of the program
-from random import seed, randint
+from random import seed, random, randint
 
 # don't modify this code or variable `n` may not be available
 
