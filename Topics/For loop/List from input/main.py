@@ -1,3 +1,5 @@
 n = int(input())
+list = []
 for _i in range(n):
-    pass
+    list.append(int(input()))
+print(list)
