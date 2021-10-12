@@ -9,5 +9,8 @@ files:
     # Work with the 'test_dict'
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6490#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 12 Oct 2021 02:31:13 UTC
 record: -1
