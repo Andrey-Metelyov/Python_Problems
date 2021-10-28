@@ -27,7 +27,7 @@ print(next(my_iterator))
 
 print(next(my_iterator))
 # StopIteration exception</code></pre> 
-  <p>Note that when we call <code class="language-python">next()</code> for the fourth time, we get a <code class="language-python">StopIteration</code>exception. It's because of our list contains just three elements, and iterator can only pass them once.</p> 
+  <p>Note that when we call <code class="language-python">next()</code> for the fourth time, we get a <code class="language-python">StopIteration</code>exception. It's because our list contains just three elements, and iterator can only pass them once.</p> 
   <p>But do you always have to call <code class="language-python">next()</code> manually? Not if you create and use iterators in <code class="language-python">for</code> loop statements using the following syntax:</p> 
   <pre><code class="language-python">for item in iterable:
     ...</code></pre> 
